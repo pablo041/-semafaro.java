@@ -21,7 +21,7 @@ const stopAutomatic = () => {
     clearInterval ( intervalId );
 }
 
-const turnOn = {
+const turnOn = {Automático
     'red':      () => img.src = './img/vermelho.png',
     'yellow':   () => img.src = './img/amarelo.png',
     'green':    () => img.src = './img/verde.png',
